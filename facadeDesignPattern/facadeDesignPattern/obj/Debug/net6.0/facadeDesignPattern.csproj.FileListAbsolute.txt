@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\bin\Debug\net6.0\facadeDesignPattern.exe
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\bin\Debug\net6.0\facadeDesignPattern.deps.json
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\bin\Debug\net6.0\facadeDesignPattern.runtimeconfig.json
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\bin\Debug\net6.0\facadeDesignPattern.dll
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\bin\Debug\net6.0\facadeDesignPattern.pdb
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\obj\Debug\net6.0\facadeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\obj\Debug\net6.0\facadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\obj\Debug\net6.0\facadeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\obj\Debug\net6.0\facadeDesignPattern.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\obj\Debug\net6.0\facadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\obj\Debug\net6.0\facadeDesignPattern.dll
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\obj\Debug\net6.0\refint\facadeDesignPattern.dll
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\obj\Debug\net6.0\facadeDesignPattern.pdb
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\obj\Debug\net6.0\facadeDesignPattern.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\facadeDesignPattern\facadeDesignPattern\obj\Debug\net6.0\ref\facadeDesignPattern.dll

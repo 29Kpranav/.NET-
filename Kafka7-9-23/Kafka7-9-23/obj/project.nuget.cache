@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sydsDFrC4bbEkuA0kijay47DCsdNwR/hruY1UGM5GDTfhzlS/kQJi6QbuYC12N7gbqk/8j3dVIxfu/FpwX5UzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Kafka7-9-23\\Kafka7-9-23\\Kafka7-9-23.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

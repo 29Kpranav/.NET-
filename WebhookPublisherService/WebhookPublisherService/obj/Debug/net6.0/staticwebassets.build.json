@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cz/aS8sp5zqtOsuf7nNSOJwbgtE48yhvR4JXR3Y2rvo=",
+  "Source": "WebhookPublisherService",
+  "BasePath": "_content/WebhookPublisherService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

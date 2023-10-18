@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ASP.NETMVC1\ASP.NETMVC1\obj\Release\net6.0\PubTmp\Out\ASP.NETMVC1.exe
+C:\Users\ASUS\source\repos\ASP.NETMVC1\ASP.NETMVC1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ASUS\source\repos\ASP.NETMVC1\ASP.NETMVC1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\ASUS\source\repos\ASP.NETMVC1\ASP.NETMVC1\obj\Release\net6.0\PubTmp\Out\ASP.NETMVC1.dll
+C:\Users\ASUS\source\repos\ASP.NETMVC1\ASP.NETMVC1\obj\Release\net6.0\PubTmp\Out\ASP.NETMVC1.deps.json
+C:\Users\ASUS\source\repos\ASP.NETMVC1\ASP.NETMVC1\obj\Release\net6.0\PubTmp\Out\ASP.NETMVC1.runtimeconfig.json
+C:\Users\ASUS\source\repos\ASP.NETMVC1\ASP.NETMVC1\obj\Release\net6.0\PubTmp\Out\ASP.NETMVC1.pdb

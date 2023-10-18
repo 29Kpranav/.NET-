@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\bin\Debug\net6.0\TemplateMethodDesignPattern.exe
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\bin\Debug\net6.0\TemplateMethodDesignPattern.deps.json
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\bin\Debug\net6.0\TemplateMethodDesignPattern.runtimeconfig.json
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\bin\Debug\net6.0\TemplateMethodDesignPattern.dll
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\bin\Debug\net6.0\TemplateMethodDesignPattern.pdb
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\obj\Debug\net6.0\TemplateMethodDesignPattern.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\obj\Debug\net6.0\TemplateMethodDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\obj\Debug\net6.0\TemplateMethodDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\obj\Debug\net6.0\TemplateMethodDesignPattern.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\obj\Debug\net6.0\TemplateMethodDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\obj\Debug\net6.0\TemplateMethodDesignPattern.dll
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\obj\Debug\net6.0\refint\TemplateMethodDesignPattern.dll
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\obj\Debug\net6.0\TemplateMethodDesignPattern.pdb
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\obj\Debug\net6.0\TemplateMethodDesignPattern.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\TemplateMethodDesignPattern\TemplateMethodDesignPattern\obj\Debug\net6.0\ref\TemplateMethodDesignPattern.dll

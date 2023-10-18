@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\bin\Debug\net6.0\interpreterDesignPattern.exe
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\bin\Debug\net6.0\interpreterDesignPattern.deps.json
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\bin\Debug\net6.0\interpreterDesignPattern.runtimeconfig.json
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\bin\Debug\net6.0\interpreterDesignPattern.dll
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\bin\Debug\net6.0\interpreterDesignPattern.pdb
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\obj\Debug\net6.0\interpreterDesignPattern.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\obj\Debug\net6.0\interpreterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\obj\Debug\net6.0\interpreterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\obj\Debug\net6.0\interpreterDesignPattern.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\obj\Debug\net6.0\interpreterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\obj\Debug\net6.0\interpreterDesignPattern.dll
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\obj\Debug\net6.0\refint\interpreterDesignPattern.dll
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\obj\Debug\net6.0\interpreterDesignPattern.pdb
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\obj\Debug\net6.0\interpreterDesignPattern.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\interpreterDesignPattern\interpreterDesignPattern\obj\Debug\net6.0\ref\interpreterDesignPattern.dll

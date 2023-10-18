@@ -1,0 +1,34 @@
+﻿@model crudMVC.Models.AddEmployeeViewModel
+
+@{
+}
+
+
+<form method ="Post" action="">
+    <div class="mb-3">
+        <label formaction="'exampleInputEmail" class="form-label">Email address</label>
+        <input type="text" class="form-control" id="exampleInputEmail" asp-for="Name"/>
+    </div>
+
+    <div class="mb-3">
+        <label formaction="'exampleInputEmail" class="form-label">Email address</label>
+        <input type="email" class="form-control" id="exampleInputEmail" asp-for="Email"/>
+    </div>
+
+
+    <div class="mb-3">
+        <label formaction="'exampleInputEmail" class="form-label">Salary</label>
+        <input type="number" class="form-control" id="exampleInputEmail" asp-for="salary"/>
+    </div>
+
+    <div class="mb-3">
+        <label formaction="'exampleInputEmail" class="form-label">DOB</label>
+        <input type="number" class="form-control" id="exampleInputEmail" asp-for="DateOfBirth"/>
+    </div>
+
+    <div class="mb-3">
+        <label formaction="'exampleInputEmail" class="form-label">Department</label>
+        <input type="text" class="form-control" id="exampleInputEmail" asp-for="Department"/>
+    </div>
+    <button type="submit" class="btn-primary">Submit</button> 
+</form>

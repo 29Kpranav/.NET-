@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Solid Principles\Solid Principles\obj\Debug\net6.0\Solid Principles.csproj.CoreCompileInputs.cache

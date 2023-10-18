@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A4z8/wJ4/QkVfUWOhL1QRjolmga690UZDf1ZFABYse2OUEd8mlPnI737f7favQ2+PvathEFIFMQvHxY7KYioWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\ASP.NETMVC1\\ASP.NETMVC1\\ASP.NETMVC1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.20\\microsoft.netcore.app.runtime.win-x86.6.0.20.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.20\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.20.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.20\\microsoft.aspnetcore.app.runtime.win-x86.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

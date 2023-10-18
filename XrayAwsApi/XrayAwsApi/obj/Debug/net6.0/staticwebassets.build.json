@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GIQSGH5qwTfyoZTbWBJlgCOXw9IJhMDO24COm1RTEtk=",
+  "Source": "XrayAwsApi",
+  "BasePath": "_content/XrayAwsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

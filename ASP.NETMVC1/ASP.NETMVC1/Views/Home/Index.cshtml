@@ -1,0 +1,22 @@
+﻿@model Student
+<!--In ASP.NET MVC Razor syntax, model is a directive used to declare the model type that the view expects to receive from the controller. It allows you to specify the data type of the model object that will be passed from the controller to the view.-->
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <br>
+    <p>My name is : @Model.Name</p>
+    <p>I live in : @Model.City</p>
+
+    <!-- <h1>Hello, atherate ViewBag.UserName!</h1>
+    <p>Your age is:  atherate ViewData["UserAge"]</p>-->
+</div>
+
+
+
+<!---The Layout.cshtml file is typically located in the "Views/Shared" folder, and it contains the common HTML structure, CSS styles, JavaScript references, and other elements that should appear on all pages of your website. It defines the outermost structure of your web pages, including headers, footers, navigation menus, and other static content.->
+<!-To use the Layout.cshtml file, you need to specify it in your individual views using the at. layout directive.-->
+<!--at.layout "~/Views/Shared/Layout.cshtml"-->

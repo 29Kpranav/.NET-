@@ -1,0 +1,31 @@
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\bin\Debug\net6.0\Model Binding.staticwebassets.runtime.json
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\bin\Debug\net6.0\Model Binding.exe
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\bin\Debug\net6.0\Model Binding.deps.json
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\bin\Debug\net6.0\Model Binding.runtimeconfig.json
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\bin\Debug\net6.0\Model Binding.dll
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\bin\Debug\net6.0\Model Binding.pdb
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\Model Binding.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\Model Binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\Model Binding.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\Model Binding.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\Model Binding.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\Model Binding.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\Model Binding.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\Model Binding.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\staticwebassets\msbuild.Model Binding.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\staticwebassets\msbuild.build.Model Binding.props
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Model Binding.props
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Model Binding.props
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\scopedcss\bundle\Model Binding.styles.css
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\scopedcss\projectbundle\Model Binding.bundle.scp.css
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\Model Binding.dll
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\refint\Model Binding.dll
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\Model Binding.pdb
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\Model Binding.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Model Binding\Model Binding\obj\Debug\net6.0\ref\Model Binding.dll

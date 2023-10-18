@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\AwsXrayApi\AwsXrayApi\obj\Release\net6.0\PubTmp\Out\AwsXrayApi.exe
+C:\Users\ASUS\source\repos\AwsXrayApi\AwsXrayApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ASUS\source\repos\AwsXrayApi\AwsXrayApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\ASUS\source\repos\AwsXrayApi\AwsXrayApi\obj\Release\net6.0\PubTmp\Out\AwsXrayApi.dll
+C:\Users\ASUS\source\repos\AwsXrayApi\AwsXrayApi\obj\Release\net6.0\PubTmp\Out\AwsXrayApi.deps.json
+C:\Users\ASUS\source\repos\AwsXrayApi\AwsXrayApi\obj\Release\net6.0\PubTmp\Out\AwsXrayApi.runtimeconfig.json
+C:\Users\ASUS\source\repos\AwsXrayApi\AwsXrayApi\obj\Release\net6.0\PubTmp\Out\AwsXrayApi.pdb
+C:\Users\ASUS\source\repos\AwsXrayApi\AwsXrayApi\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.SQSEvents.dll
+C:\Users\ASUS\source\repos\AwsXrayApi\AwsXrayApi\obj\Release\net6.0\PubTmp\Out\AWSSDK.Core.dll
+C:\Users\ASUS\source\repos\AwsXrayApi\AwsXrayApi\obj\Release\net6.0\PubTmp\Out\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\ASUS\source\repos\AwsXrayApi\AwsXrayApi\obj\Release\net6.0\PubTmp\Out\AWSXRayRecorder.Core.dll
+C:\Users\ASUS\source\repos\AwsXrayApi\AwsXrayApi\obj\Release\net6.0\PubTmp\Out\AWSXRayRecorder.Handlers.AspNetCore.dll
